@@ -81,7 +81,7 @@ router.get('/:id', (req, res) => {
   if (!book) {
     res.sendStatus(404);
   }
-  res.send(books);
+  res.send(book);
 });
 
 /**
