@@ -5,7 +5,7 @@ The project uses Swagger APi documentation using swaggerUI and swagger-jsdoc npm
 Steps to run:
 1. goto project directory and install necessary packages using terminal through command
     npm install
-2. After insatllation of packages start the server using 
+2. After installation of packages start the server using 
     node index.js
 3. Open browser and goto 
     http://localhost/5000/api-docs 
